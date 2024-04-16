@@ -17,15 +17,6 @@ This Database creation project is a comprehensive database setup aimed at facili
 - **credentials.json**: Google Sheets API credentials file.
 - **token.json**: Google Sheets API token file.
 
-## Features of the Datasets
-
-- **5000+ MCQs**: The database is designed to store a growing repository of multiple-choice questions spanning five different subjects, providing a diverse range of topics for students to explore.
-  
-- **Advanced Database Management**: Utilizing modern database management systems such as MySQL, PostgreSQL, or MongoDB, the project employs sophisticated techniques for efficient data Certainly! Here's a revised section focusing solely on the features related to the database:
-
----
-
-# EdTech Databases Project
 
 ## Database Features
 
