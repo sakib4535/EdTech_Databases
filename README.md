@@ -2,9 +2,6 @@
 
 Welcome to the EdTech Database and Code Repository! This repository contains the code and databases for our educational technology project.
 
-Certainly! Here's a template you can use for your README.md file on GitHub:
-
----
 
 # EdTech Databases Project
 
